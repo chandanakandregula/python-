@@ -1,0 +1,14 @@
+num=2
+decimali=1.3
+name="chandu"
+is_valid=True
+complex_num=2+3j
+a=None
+print(type(num))
+print(type(decimali))
+print(type(name))
+print(type(is_valid))
+print(type(complex_num))
+print(type(a))
+print(complex_num.real)
+print(complex_num.imag)
